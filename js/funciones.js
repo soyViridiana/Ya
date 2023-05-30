@@ -1,0 +1,5 @@
+
+
+const validarCorreo=(correo)=>{
+return
+}
